@@ -7,6 +7,17 @@ wheels/
 *.egg-info
 
 # Virtual environments
-.venv
+.venv/
 
+# Environment variables
+.env
+
+# Lock file (optional)
 uv.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor settings (optional)
+.vscode/
